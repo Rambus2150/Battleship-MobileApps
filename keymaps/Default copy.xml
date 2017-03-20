@@ -1,0 +1,9 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift subtract" />
+  </action>
+  <action id="EditorDeleteLine" />
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift add" />
+  </action>
+</keymap>
